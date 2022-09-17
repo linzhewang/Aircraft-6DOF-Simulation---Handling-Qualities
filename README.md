@@ -4,7 +4,7 @@ The program computes the 6DOF nonlinear dynamics model and integrates it with Fl
 
 Features
 ============
-* Compute the states of the 6DOF rigid body dynamics
+* Compute the states of the nonlinear 6DOF rigid body dynamics
 * Provide real time visualization via FlightGear 
 * Determine the equilibrium points of the dynamics model 
 * Linearize the dynamics model at the desired trim points
